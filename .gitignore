@@ -1,0 +1,22 @@
+# Arquivos de compilação Python
+__pycache__/
+
+# Arquivos de byte compilados Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (por exemplo, criado com venv ou virtualenv)
+venv/
+env/
+
+# Arquivos de log e saída
+*.log
+*.out
+
+# Arquivos de configuração locais (exemplo: config.ini)
+config.ini
+
+# Diretório de dependências (por exemplo, criado com pip)
+lib/
+lib64/
